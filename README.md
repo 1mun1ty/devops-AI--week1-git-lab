@@ -1,1 +1,1 @@
-# devops-AI--week1-git-lab
+# Week 1 Assignment tasks 
